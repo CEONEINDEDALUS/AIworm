@@ -2,8 +2,12 @@
 
 A simple Python simulator for AI-driven worms moving and growing in a 2D environment. Powered by `pygame` for rendering and `numpy` for efficient calculations.
 
-## Features
 
+
+
+https://github.com/user-attachments/assets/573e5bc8-e11d-4450-9070-420b9f157a3f
+
+## Features
 - 2D grid simulation
 - Worm AI using rules or randomness
 - Food spawning and growth mechanics
